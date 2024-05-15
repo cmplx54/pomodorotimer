@@ -1,0 +1,4 @@
+Gökşin Sönmez Projesi
+
+Pomodoro Zamanlayıcı
+Bu program, pomodoro tekniği ile çalışmanızı daha verimli hale getirmenize yardımcı olur.
